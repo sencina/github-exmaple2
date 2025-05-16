@@ -1,5 +1,5 @@
 b= 5
-c= 10
+z = 10
 print(b)
 
-print(b+c)
+print(b+b)
